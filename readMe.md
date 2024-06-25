@@ -2,7 +2,7 @@
 
 # React Native App
 
-This is a react native app  that designed to demonstrate some react native concepts like keeping state with context, enabling theme swithces and finally building the UI it self(Involed the usage of several react native components)
+This is a react native app  that designed to demonstrate some react native concepts like keeping state with context, enabling theme swithces and finally building the UI itself(Involved the usage of several react native components)
 
 ## How I went about it
 
@@ -12,7 +12,7 @@ This is a react native app  that designed to demonstrate some react native conce
 4.  I then created the settings page which holds a just a few links and contains the switch for toggling the theme mode
 
 <p>
-  <img src="./assets/h1.jpeg" alt="App Screenshot 1" height='450vh' width="25%"/>
+  <img src="./assets/h1.png" alt="App Screenshot 1" height='450vh' width="25%"/>
   <img src="./assets/h1w.png" alt="App Screenshot 2" height='450vh' width="25%"/>
   <img src="./assets/ds.png" alt="App Screenshot 2" height='450vh' width="25%"/>
 </p>
